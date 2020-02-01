@@ -1,4 +1,7 @@
 # Lets-EDA
+
+#### 매 주말 고수들의 분석을 따라하며 노하우를 습득하는 repo
+
 To get used to EDA.
 These are the records of my practices of EDA with various datasets.
 
