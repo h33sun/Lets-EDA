@@ -9,3 +9,17 @@ These are the records of my practices of EDA with various datasets.
 
 - To learn how the experts do EDA I follow their work. 전문가들의 EDA 방법을 따라가며 노하우를 습득하려 함.
 - URL : http://www.kaggle.com/deffro/eda-is-fun/notebook
+
+	- 02/01
+		- 진행사항
+			첫번째 단인 The killers 부분을 진행했다. Target 변수인 winPlacePerc와 kills의 관계를 분석
+			킬과 승리는 상당한 상관관계를 가졌다. (얼마인지 기록할 것 : )
+	- 02/02
+		- 진행사항
+			두번째 단인 The runners를 진행했다. 이동거리와 승리의 연관성이 가장 높았다.
+	- 느낀점
+		- 각 단 혹은 분석단계마다 raw_data를 딥카피해서 새로운 변수에 사용한다. raw를 유지하기 위한 방법.
+		- 의미는 알겠는데 이 사람은 좀 자주 복사를 했다. data가 900mb짜리였는데 계속해서 복사를 해대니 은근 시간이 많이 걸렸다.
+		- *최대한 데이터는 작은 단위로 유지하면서 빠르게 빠르게 사용하는 방법에 익숙해져야 할듯*
+		- 나라면 분석의 가장 첫단에서 Heatmap을 그려보겠다. 한눈에 타겟과 모든 변수의 상관관계를 파악할 수 있는 가장 빠른 방법라고 생각한다.
+
